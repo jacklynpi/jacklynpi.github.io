@@ -61,11 +61,11 @@ author:
   name   : "Jacklyn Pi"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "she/her <br> PhD Student in Economics"
-  location: "Davis, CA"
+  location: "Davis, CA test"
   links:
     - label: "University of California, Davis"
       icon: "fas fa-fw fa-university"
-      url: "#"
+      url: "javascript:void(0)"
   email: "jcpi@ucdavis.edu"
 
  # Disable RSS feed completely
