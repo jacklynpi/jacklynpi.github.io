@@ -61,7 +61,7 @@ author:
   name   : "Jacklyn Pi"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "she/her <br> PhD Student in Economics"
-  location: "Davis, CA test"
+  location: "Davis, CA"
   links:
     - label: "University of California, Davis"
       icon: "fas fa-fw fa-university"
