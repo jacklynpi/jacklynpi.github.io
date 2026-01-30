@@ -53,7 +53,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+ # - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -65,10 +65,13 @@ author:
   links:
     - label: "University of California, Davis"
       icon: "fas fa-fw fa-university"
-      url: ""
+      url: "#"
   email: "jcpi@ucdavis.edu"
 
- 
+ # Disable RSS feed completely
+atom_feed:
+  hide: true
+  
 defaults:
   # _posts
   - scope:
