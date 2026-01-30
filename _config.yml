@@ -63,15 +63,9 @@ author:
   bio    : "3rd Year PhD Student in Economics"
   location: "Davis, CA"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "UC Davis"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.ucdavis.edu"
 
 
 footer:
