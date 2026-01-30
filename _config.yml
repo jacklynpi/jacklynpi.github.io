@@ -60,10 +60,10 @@ plugins:
 author:
   name   : "Jacklyn Pi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "3rd Year PhD Student in Economics"
+  bio    : "she/her <br> PhD Student in Economics"
   location: "Davis, CA"
   links:
-    - label: "UC Davis"
+    - label: "University of California, Davis"
       icon: "fas fa-fw fa-university"
       url: "https://www.ucdavis.edu"
 
